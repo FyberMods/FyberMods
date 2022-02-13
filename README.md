@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋, My name is "Fyber"
-#### Twitter @FyberMods <br>
+- 🐦 My Twitter@FyberMods <br>
 - 🌱 I’m currently learning Javascript / HTML
 - 📫Business Email: [🔒 CLOSED]
 
