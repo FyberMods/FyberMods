@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @FyberMods
-- 8
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 ### Hi there 👋, My name is "Fyber"
 #### Twitter @FyberMods <br>
